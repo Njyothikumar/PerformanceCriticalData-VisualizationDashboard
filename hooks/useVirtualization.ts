@@ -24,7 +24,7 @@ export const useVirtualization = ({
         style: {
           position: 'absolute' as const,
           top: i * itemHeight,
-          left: 0,
+          left: 0, // fine as a number
           width: '100%',
           height: itemHeight,
         },

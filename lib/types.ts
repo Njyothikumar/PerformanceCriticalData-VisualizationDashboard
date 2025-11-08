@@ -47,7 +47,7 @@ export interface VirtualItems {
     style: {
       position: 'absolute';
       top: number;
-      left: 0;
+      left: number; // ✅ FIXED: was 0 before
       width: string;
       height: number;
     };
