@@ -4,8 +4,6 @@ This project is a high-performance, real-time data visualization dashboard built
 
 ## ✨ Screenshots
 
-Here's a look at the dashboard in action, showcasing its clean UI and multiple chart visualizations.
-
 Screenshot of the full dashboard layout 
 ![App Screenshot](Outputs/main.png)
 
