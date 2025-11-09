@@ -6,14 +6,15 @@ This project is a high-performance, real-time data visualization dashboard built
 
 Here's a look at the dashboard in action, showcasing its clean UI and multiple chart visualizations.
 
-*(Screenshot of the full dashboard layout)*
-![App Screenshot](output/main.png)
+Screenshot of the full dashboard layout 
+![App Screenshot](Outputs/main.png)
 
-*(Screenshot highlighting the interactive line chart with zoom/pan functionality)*
-![App Screenshot](output/1.png)
+Screenshot highlighting the interactive line chart with zoom/pan functionality
+![App Screenshot](Outputs/2.png)
 
-*(Screenshot showing the virtualized data table smoothly scrolling through data)*
-![App Screenshot](output/2.png)
+Screenshot showing the virtualized data table smoothly scrolling through data
+![App Screenshot](Outputs/3.png)
+
 
 
 ## 🚀 Features
