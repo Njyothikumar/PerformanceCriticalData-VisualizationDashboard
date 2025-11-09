@@ -2,6 +2,13 @@
 
 This project is a high-performance, real-time data visualization dashboard built with Next.js, React, TypeScript, and advanced browser APIs. It is architecturally designed to render and update over 10,000 data points at a smooth 60 frames per second (fps) by offloading all intensive processing and rendering to background threads.
 
+
+## 🚀 Live Demo
+
+Check out the deployed app here:  
+[https://performancecriticaldata-visualization.netlify.app/](https://performancecriticaldata-visualization.netlify.app/)
+
+
 ## ✨ Screenshots
 
 Screenshot of the full dashboard layout 
